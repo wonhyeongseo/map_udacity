@@ -5,4 +5,5 @@ This code was helped by the FullStack Nanodegree Course on Udacity.
 This implements a Google Map API for visualization and Knockout.js to render the DOM.
 
 ## Usage
-Download the allinone.html and run it on your favorite browser. Thanks!
+Please clone this repository and open the index.html in your favorite browser.
+Please give honest opinions about the code. Thank you very much!
